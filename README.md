@@ -12,7 +12,7 @@
 
 在 Release 页面的 **Assets** 区域中，下载压缩包：
 
-`wyxwj-photo-v2.3.0.zip`
+`wyxwj-v2.3.0.zip`
 
 解压后运行：
 
