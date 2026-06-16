@@ -10,15 +10,13 @@
 
 👉 [点击下载最新版](https://github.com/Gelivabilities/wyxwj-photo/releases/latest)
 
-在 Release 页面的 **Assets** 区域中，下载类似下面名称的压缩包：
+在 Release 页面的 **Assets** 区域中，下载压缩包：
 
-`PhotoManager-v2.3.0-win-x64.zip`
+`wyxwj-photo-v2.3.0.zip`
 
 解压后运行：
 
 `PhotoManager.exe`
-
-> 不要下载 `Source code (zip)` 或 `Source code (tar.gz)`，那是 GitHub 自动生成的源码包，不能直接运行本软件。
 
 ## 亮点
 
