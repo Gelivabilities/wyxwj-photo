@@ -18,6 +18,10 @@
 
 `PhotoManager.exe`
 
+## 软件界面
+<img width="3238" height="2052" alt="8d17661ed18ff8df50dce9dba520305d" src="https://github.com/user-attachments/assets/e28ce143-ae2c-48ed-8e1c-6de4eab5cf50" />
+<img width="3238" height="2052" alt="a1f39a29dcfcf38d29aa58a55bc4fe8c" src="https://github.com/user-attachments/assets/1c70d6af-27a8-403c-a750-fd100fd89b8a" />
+
 ## 亮点
 
 1. **摄影照片浏览更快**  
